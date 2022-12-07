@@ -1,0 +1,3 @@
+#!/bin/bash
+read TRUEKNOWLEDGE
+echo $((128 + $TRUEKNOWLEDGE))
